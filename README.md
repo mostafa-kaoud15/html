@@ -5,7 +5,7 @@
 
 # tages
 
-## header -> contain meta data
+## head -> contain meta data
 - meta (name="description", content= "the content")
 - title
 - meta charset=""
